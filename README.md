@@ -24,6 +24,8 @@ These design patterns provide a way to create objects while hiding the creation 
 
 - [Singletone ](src/creational/singletone/README.md)
 - [Prototype](src/creational/prototype/README.md)
+- [Factory](src/creational/factory/README.md)
+- [Builder](src/creational/builder/README.md)
 
 #### Structural Patterns
 
