@@ -22,7 +22,7 @@ Resuable, reliable solutions to problems that we face every day in software deve
 
 These design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. This gives program more flexibility in deciding which objects need to be created for a given use case.
 
-- [Singletone ](src/creational/singletone/README.md)
+- [Singletone](src/creational/singletone/README.md)
 - [Prototype](src/creational/prototype/README.md)
 - [Factory](src/creational/factory/README.md)
 - [Builder](src/creational/builder/README.md)
@@ -30,6 +30,8 @@ These design patterns provide a way to create objects while hiding the creation 
 #### Structural Patterns
 
 These design patterns concern class and object composition
+
+- [Adapter](src/structural/adapter/README.md)
 
 #### Behavioral Patterns
 
