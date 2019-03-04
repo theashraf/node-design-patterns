@@ -32,6 +32,7 @@ These design patterns provide a way to create objects while hiding the creation 
 These design patterns concern class and object composition
 
 - [Adapter](src/structural/adapter/README.md)
+- [Proxy](src/structural/proxy/README.md)
 
 #### Behavioral Patterns
 
