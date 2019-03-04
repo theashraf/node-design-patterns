@@ -1,14 +1,14 @@
-const Customer = require("./Customer");
-const logger = require("./Logger");
+const Customer = require("./Customer")
+const logger = require("./Logger")
 
-logger.log("the start");
+logger.log("the start")
 
-const ali = new Customer("ali");
-ali.addItemToShoppingList("ta3mya");
+const ali = new Customer("ali")
+ali.addItemToShoppingList("ta3mya")
 
-const ahmed = new Customer("ahmed");
-ahmed.addItemToShoppingList("chips");
+const ahmed = new Customer("ahmed")
+ahmed.addItemToShoppingList("chips")
 
-logger.log("the end");
+logger.log("the end")
 
-console.log(`logs count : ${logger.count}`);
+console.log(`logs count : ${logger.count}`)
