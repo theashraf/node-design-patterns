@@ -33,6 +33,7 @@ These design patterns concern class and object composition
 
 - [Adapter](src/structural/adapter/README.md)
 - [Proxy](src/structural/proxy/README.md)
+- [Composites](src/structural/composites/README.md)
 
 #### Behavioral Patterns
 
