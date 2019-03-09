@@ -41,6 +41,7 @@ These design patterns concern class and object composition
 These design patterns are specifically concerned with communication between objects.
 
 - [Observer](src/behavioral/observer/README.md)
+- [Strategy](src/behavioral/strategy/README.md)
 
 ### What is Anti-Pattern?
 
