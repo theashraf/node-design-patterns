@@ -44,6 +44,7 @@ These design patterns are specifically concerned with communication between obje
 - [Strategy](src/behavioral/strategy/README.md)
 - [Iterator](src/behavioral/iterator/README.md)
 - [Chain of Responsibility](src/behavioral/chain-of-responsibility/README.md)
+- [Command](src/behavioral/command/README.md)
 
 ### What is Anti-Pattern?
 
