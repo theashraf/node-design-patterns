@@ -1,4 +1,4 @@
-# NodeJs Deisgn Patterns
+# Node Design Patterns
 
 > Design Patterns implemented in NodeJs
 
